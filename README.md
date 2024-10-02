@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadbelbesi&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadbelbesi" /> </p>
 
-- 🔭 I’m currently working on a full stack project [Bar-Kiama web stores](https://shops-d83a2.web.app)
+- 🔭 I’m currently working on my private startup project and I'm open to work :)
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **any creative project and with developers**
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **C, C++, JAVA, HTML, CSS, JAVA SCRIPT, PYTHON and REACT**
 
-- 📫 How to reach me? => **my_1999@live.com** or **054-8729409**
+- 📫 How to reach me? => **mohammad.belbesi.il@gmail.com** or **054-8729409**
 
 - 📄 some of projects that i worked on:
   -  [memory card game](https://my-memory-card-game.web.app/)
