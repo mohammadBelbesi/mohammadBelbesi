@@ -17,9 +17,9 @@
 - 💬 Ask me about **C, C++, JAVA, HTML, CSS, JAVA SCRIPT, PYTHON and REACT**
 
 - 📫 How to reach me?
--  **mohammad.belbesi.il@gmail.com**
--  or **+972 52-698-0249**
--  Message Code coach engineer on WhatsApp. https://wa.me/message/MC7NWBD6V7NTK1
+  --  **mohammad.belbesi.il@gmail.com**
+  --  or **+972 52-698-0249**
+  --  Message Code coach engineer on WhatsApp. https://wa.me/message/MC7NWBD6V7NTK1
 
 - 📄 some of projects that i worked on:
   -  [memory card game](https://my-memory-card-game.web.app/)
