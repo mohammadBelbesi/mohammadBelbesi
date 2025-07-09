@@ -16,7 +16,8 @@
 
 - 💬 Ask me about **C, C++, JAVA, HTML, CSS, JAVA SCRIPT, PYTHON and REACT**
 
-- 📫 How to reach me? => **mohammad.belbesi.il@gmail.com** or **+972 52-698-0249**
+- 📫 How to reach me? => **mohammad.belbesi.il@gmail.com**
+                          or **+972 52-698-0249**
 
 - 📄 some of projects that i worked on:
   -  [memory card game](https://my-memory-card-game.web.app/)
